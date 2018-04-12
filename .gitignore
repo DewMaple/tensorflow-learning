@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+l_03/data/
+l_03/graphs/
