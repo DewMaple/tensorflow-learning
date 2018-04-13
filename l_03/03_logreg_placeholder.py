@@ -21,7 +21,7 @@ n_epochs = 30
 
 # Step 1: Read in data
 # using TF Learn's built in function to load MNIST data to the folder data/mnist
-mnist = input_data.read_data_sets('data/mnist', one_hot=True)
+mnist = input_data.read_data_sets('../data/mnist', one_hot=True)
 X_batch, Y_batch = mnist.train.next_batch(batch_size)
 
 # Step 2: create placeholders for features and labels

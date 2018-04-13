@@ -14,7 +14,7 @@ import tensorflow as tf
 
 import utils
 
-DATA_FILE = 'data/birth_life_2010.txt'
+DATA_FILE = '../data/birth_life_2010.txt'
 
 # Step 1: read in the data
 data, n_samples = utils.read_birth_life_data(DATA_FILE)
