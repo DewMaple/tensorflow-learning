@@ -101,3 +101,6 @@ ENV/
 .mypy_cache/
 l_03/data/
 l_03/graphs/
+l_vgg_face/output/
+l_vgg_face/vgg_face_matconvnet/
+l_vgg_face/vgg-face.mat
