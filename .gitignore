@@ -104,3 +104,10 @@ l_03/graphs/
 l_vgg_face/output/
 l_vgg_face/vgg_face_matconvnet/
 l_vgg_face/vgg-face.mat
+*.pb
+*.index
+*.data*
+*.tgz
+l_image_retrain/flower_photos/
+l_image_retrain/labels/
+l_image_retrain/models/
